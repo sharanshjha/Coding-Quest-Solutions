@@ -21,8 +21,6 @@ Each solution file includes the problem statement and my code.
 ## Languages
 
 - Java
-- Python
-- C++ (occasionally)
 
 ## Progress
 
@@ -43,8 +41,8 @@ I'm a 3rd year B.Tech CSE student passionate about coding and problem-solving. T
 
 ## Connect
 
-- [LinkedIn](your-linkedin-profile-url)
-- [LeetCode Profile](your-leetcode-profile-url)
-- [GeeksforGeeks Profile](your-gfg-profile-url)
+- [LinkedIn](https://www.linkedin.com/in/sharansh-jha-bb3641253/)
+- [LeetCode Profile](https://leetcode.com/u/kodersharansh/)
+- [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/codewithshgr1/)
 
 Feel free to reach out for discussions or suggestions!
